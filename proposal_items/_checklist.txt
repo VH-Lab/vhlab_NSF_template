@@ -1,0 +1,20 @@
+This is a list of the “Finished” items, ready to post to NSF:
+
+		
+
+STILL TO FINISH:
+
+	b.project_summary
+	d.proposal
+	e.references_cited
+	f.biosketch
+	g.budget
+	g.budget_justification
+	h.current_and_pending/
+	i.facilities_equipment_other_resources/
+	j.special_info/
+		human_subjects/
+		data_management_plan/
+		postdoc_mentoring_plan/
+		vertebrate_animals
+		collaboration_letters
